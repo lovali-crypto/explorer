@@ -1,0 +1,7 @@
+{
+    "chain_name": "odin-testnet-havi",
+    "api": "5.9.56.59",
+    "sdk_version": "0.44.5",
+    "addr_prefix": "ODIN",
+    "logo": "https://odin-scan.web.app/img/odin-logo-black.66d34990.png"
+}

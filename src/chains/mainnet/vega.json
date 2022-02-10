@@ -1,0 +1,17 @@
+{
+    "chain_name": "vega-mainnet-0006",
+    "coingecko": "vega-protocol",
+    "api": "http://lovali.mainnet.vega.community",
+    "addr_prefix": "VEGA",
+    "coin_type": "118",
+    "min_tx_fee": "3500",
+    "logo": "https://raw.githubusercontent.com/vegaprotocol/brand/9b50a32487ce42a9238b7e72e3970057b20a7d72/1-Vega-Brand-Basics/1B-Brand-Icon/Variations/wb-icon-558px.png",
+    "sdk_version": "0.44.5",
+    "assets": [{
+        "base": "VEGA",
+        "symbol": "VEGA",
+        "exponent": "6",
+        "coingecko_id": "vega-protocol", 
+        "logo": "https://raw.githubusercontent.com/vegaprotocol/brand/9b50a32487ce42a9238b7e72e3970057b20a7d72/1-Vega-Brand-Basics/1B-Brand-Icon/Variations/wb-icon-558px.png"
+    }]
+}
