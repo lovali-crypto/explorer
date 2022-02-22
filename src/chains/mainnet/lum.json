@@ -1,17 +1,17 @@
 {
-    "chain_name": "lum-network-1",
+    "chain_name": "LUM Network",
     "coingecko": "lum-network",
-    "api": "136.243.89.156:11317",
-    "addr_prefix": "ulum",
-    "coin_type": "118",
-    "min_tx_fee": "3500",
-    "logo": "https://raw.githubusercontent.com/lum-network/website/3667b2f06450ad31f4f0031b72531b28edf5b6a7/src/logo.svg",
+    "api": "http://136.243.89.156:1317",
     "sdk_version": "0.44.5",
+    "coin_type": "880",
+    "min_tx_fee": "5000",
+    "addr_prefix": "lum",
+    "logo": "https://ipfs.infura.io/ipfs/QmWwKRnkHantvhoFx9serWaWKBUG6gfhSYN3SHdAv1jmKY",
     "assets": [{
         "base": "ulum",
         "symbol": "LUM",
         "exponent": "6",
-        "coingecko_id": "lum-network", 
-        "logo": "https://raw.githubusercontent.com/lum-network/website/3667b2f06450ad31f4f0031b72531b28edf5b6a7/src/logo.svg"
+        "coingecko_id": "", 
+        "logo": "https://ipfs.infura.io/ipfs/QmWwKRnkHantvhoFx9serWaWKBUG6gfhSYN3SHdAv1jmKY"
     }]
 }
