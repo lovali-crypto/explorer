@@ -1,7 +1,7 @@
 {
     "chain_name": "odin-mainnet-freya",
     "coingecko": "odin-protocol",
-    "api": "136.243.89.156:26657",
+    "api": "136.243.89.156:1317",
     "addr_prefix": "loki",
     "coin_type": "118",
     "min_tx_fee": "3500",
