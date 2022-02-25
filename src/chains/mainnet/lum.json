@@ -11,7 +11,7 @@
         "base": "ulum",
         "symbol": "LUM",
         "exponent": "6",
-        "coingecko_id": "", 
+        "coingecko_id": "lum-network", 
         "logo": "https://ipfs.infura.io/ipfs/QmWwKRnkHantvhoFx9serWaWKBUG6gfhSYN3SHdAv1jmKY"
     }]
 }
