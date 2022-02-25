@@ -5,13 +5,13 @@
     "addr_prefix": "loki",
     "coin_type": "118",
     "min_tx_fee": "3500",
-    "logo": "https://odin-scan.web.app/img/odin-logo-black.66d34990.png",
+    "logo": "https://assets.coingecko.com/coins/images/14934/small/ODIN_iso_black.png",
     "sdk_version": "0.44.5",
     "assets": [{
         "base": "loki",
         "symbol": "ODIN",
         "exponent": "6",
         "coingecko_id": "odin-protocol", 
-        "logo": "https://odin-scan.web.app/img/odin-logo-black.66d34990.png"
+        "logo": "https://assets.coingecko.com/coins/images/14934/small/ODIN_iso_black.png"
     }]
 }

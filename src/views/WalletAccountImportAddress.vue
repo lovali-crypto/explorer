@@ -2,7 +2,7 @@
   <div>
     <form-wizard
       ref="wizard"
-      color="#7367F0"
+      color="#362c63"
       :title="null"
       :subtitle="null"
       shape="square"
