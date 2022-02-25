@@ -1,7 +1,7 @@
 {
     "chain_name": "vega-mainnet-0006",
     "coingecko": "vega-protocol",
-    "api": "http://lovali.mainnet.vega.community",
+    "api": "https://vega.nodes.lovali.xyz",
     "addr_prefix": "VEGA",
     "coin_type": "118",
     "min_tx_fee": "3500",
