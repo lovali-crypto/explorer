@@ -1,0 +1,17 @@
+{
+    "chain_name": "7001",
+    "coingecko": "zetachain",
+    "api": "https://api.athens2.zetachain.com/evm",
+    "addr_prefix": "aZETA",
+    "coin_type": "118",
+    "min_tx_fee": "3500",
+    "logo": "https://assets.coingecko.com/coins/images/26718/small/Twitter_icon.png",
+    "sdk_version": "0.44.5",
+    "assets": [{
+        "base": "aZETA",
+        "symbol": "aZETA",
+        "exponent": "6",
+        "coingecko_id": "zetachain", 
+        "logo": "https://assets.coingecko.com/coins/images/26718/small/Twitter_icon.png"
+    }]
+}
