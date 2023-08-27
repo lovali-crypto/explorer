@@ -1,7 +1,7 @@
 {
-    "chain_name": "7001",
+    "chain_name": "Zetachain Testnet",
     "coingecko": "zetachain",
-    "api": "https://api.athens2.zetachain.com/evm",
+    "api": "https://rpc.ankr.com/http/zetachain_athens_testnet",
     "addr_prefix": "aZETA",
     "coin_type": "118",
     "min_tx_fee": "3500",
